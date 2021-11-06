@@ -9,9 +9,15 @@ Institute of Physiology <br>
 Charité - Universitätsmedizin Berlin <br>
 [volkamerlab.org](https://physiologie-ccm.charite.de/en/research_at_the_institute/volkamer_lab/)
 
-[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs13321--019--0351--x-blue.svg)](https://doi.org/10.1186/s13321-019-0351-x)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2600909.svg)](https://doi.org/10.5281/zenodo.2600909)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkamerlab/TeachOpenCADD/master)
+[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs13321--019--0351--x-blue.svg)](https://doi.org/10.1186/s13321-019-0351-x)
+
+Latest TeachOpenCADD version: v1.2.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2600909.svg)](https://doi.org/10.5281/zenodo.2600909)
+
+Published TeachOpenCADD versions
+
+* [TeachOpenCADD Jupyter Notebooks: Talktorials 1-10 (v1.2.0)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x>`) 
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2600909.svg)](https://doi.org/10.5281/zenodo.2600909) 
 
 ## Table of contents  
 
@@ -265,7 +271,7 @@ The authors of the TeachOpenCADD platform received public funding from the follo
 * Open Access Publication Fund of Charité – Universitätsmedizin Berlin
 
 If you make use of the TeachOpenCADD material in scientific publications, please cite our respective articles:
-* [TeachOpenCADD Jupyter Notebooks: Talktorials 1-10](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x>`). 
+* [TeachOpenCADD Jupyter Notebooks: Talktorials 1-10](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x>`), describing TeachOpenCADD v1.2.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2600909.svg)](https://doi.org/10.5281/zenodo.2600909) 
 * TeachOpenCADD KNIME workflows (accepted)
 
 It will help measure the impact of the TeachOpenCADD platform and future funding!
