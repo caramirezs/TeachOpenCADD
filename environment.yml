@@ -4,10 +4,9 @@ channels:
   - defaults
   - samoturk
 dependencies:
-  - python>=3.6
+  - python
   - jupyter
-  - rdkit>=2018.09.2.0
-  - pymol
+  - rdkit
   - pmw
   - scikit-learn
   - biopandas
